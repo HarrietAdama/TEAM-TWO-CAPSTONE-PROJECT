@@ -1,6 +1,6 @@
 # WATER POTABILITY PREDICTION USING MACHINE LEARNING
 
-* DESCRIPTION
+# DESCRIPTION
 * Analyzed the water potability dataset to assess and predict water safety using machine learning techniques.
 
   # OBJECTIVES
